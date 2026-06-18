@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# https-github.com-Dhaniya1-Dhaniya1
+<!-- # https-github.com-Dhaniya1-Dhaniya1 -->
 
 <!-- ![Pixel_lofi](pixel-jeff-divoom-pixel-art.gif) -->
 
