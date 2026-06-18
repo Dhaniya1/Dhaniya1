@@ -55,5 +55,4 @@ Status      : Online
 OS          : Linux Mint + i3wm
 Learning    : Python/FastAPI
 Exploring   : Full-Stack Development & MCP Tools 
-Fuel        : The horrors ☕
 ```
